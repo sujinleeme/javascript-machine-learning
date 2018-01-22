@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,WAAa,CAEf,KACE,eAAiB","file":"static/css/main.cc480e62.css","sourcesContent":["html{\n  height: 100%;\n}\nbody {\n  min-height: 100%;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
