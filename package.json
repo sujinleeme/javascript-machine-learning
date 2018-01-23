@@ -1,8 +1,8 @@
 {
-  "name": "ml-js",
+  "name": "ml",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sujinleeme.github.io/javascript-machine-learning",
+  "homepage": "https://sujinleeme.github.io/javascript-machine-learning",
   "dependencies": {
     "material-ui": "^1.0.0-beta.30",
     "react": "^16.2.0",
@@ -18,5 +18,18 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujinleeme/javascript-machine-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujinleeme/javascript-machine-learning/issues"
   }
 }
